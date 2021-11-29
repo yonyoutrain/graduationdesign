@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/graduationdesign.iml" filepath="$PROJECT_DIR$/graduationdesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graduationdesign-dao/graduationdesign-dao.iml" filepath="$PROJECT_DIR$/graduationdesign-dao/graduationdesign-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graduationdesign-domain/graduationdesign-domain.iml" filepath="$PROJECT_DIR$/graduationdesign-domain/graduationdesign-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graduationdesign-service/graduationdesign-service.iml" filepath="$PROJECT_DIR$/graduationdesign-service/graduationdesign-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graduationdesign-utils/graduationdesign-utils.iml" filepath="$PROJECT_DIR$/graduationdesign-utils/graduationdesign-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graduationdesign-web/graduationdesign-web.iml" filepath="$PROJECT_DIR$/graduationdesign-web/graduationdesign-web.iml" />
+    </modules>
+  </component>
+</project>

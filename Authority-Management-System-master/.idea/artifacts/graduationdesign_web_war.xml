@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="graduationdesign-web:war">
+    <output-path>$PROJECT_DIR$/graduationdesign-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>graduationdesign-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="graduationdesign-web.war">
+      <element id="artifact" artifact-name="graduationdesign-web:war exploded" />
+    </root>
+  </artifact>
+</component>
